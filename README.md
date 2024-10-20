@@ -1,1 +1,2 @@
 # CODING-CHALLENGE-DATA-SCIENTIST
+Unter https://www.openml.org/d/41214 und https://www.openml.org/d/41215 finden Sie zwei Daten-sätze eines französischen Automobilversicherers. Diese beinhalten Risikomerkmale und Schaden-informationen zu Kraftfahrt-Haftpflicht-Versicherungsverträgen (eine Datensatzbeschreibung finden Sie am Ende dieses Textes). Die Aufgabe besteht in der Modellierung der zu erwartenden Schadenhöhe pro Versicherungsnehmer und Jahr anhand der Risikomerkmale der Kunden. Dieser Wert ist Basis für die Berechnung eines fairen Versicherungsbeitrags.
